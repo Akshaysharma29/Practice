@@ -1,1 +1,1 @@
-This part contain some of the solution of my practiced question
+This part contain some of the solution of my practiced questions
